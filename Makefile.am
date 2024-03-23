@@ -727,6 +727,3 @@ coverage-report:
 
 coverage-clean:
 	$(CLEANUP_COVERAGE)
-
-czech: check
-	@echo "This should do something much cooler"
